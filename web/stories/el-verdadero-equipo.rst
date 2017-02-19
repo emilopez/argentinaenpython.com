@@ -114,7 +114,7 @@
    :image: emiliano_lopez.png
    :place: Santa Fe, Santa Fe, Argentina
    :community: Python Argentina, LUGLi
-   :email: elopez@gmail.com
+   :email: emiliano.lopez@gmail.com
    :web: http://yosobreip.com.ar
    :github: https://github.com/emilopez
    :bitbucket:
